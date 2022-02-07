@@ -12,6 +12,11 @@ Currenty supported video conferencing systems:
 
 - zoom
 
+## Built with
+
+- Java
+- Sprint Boot
+
 ## License
 
 MIT
